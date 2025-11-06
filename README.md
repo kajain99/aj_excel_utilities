@@ -53,8 +53,15 @@ No internet connection or data upload is required.
 ![Easy VLOOKUP](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/easy%20vlookup.png)
 
 ### Multi-Key VLOOKUP
-![Multi-Key VLOOKUP](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/multikeyvlookup.png)
+![Multi-Key VLOOKUP](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/multikey%20vlookup.PNG)
 
 ### Batch Cleanup
-![Batch Cleanup](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/batch%20cleanup.png)
+![Batch Cleanup](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/batchcleanup.PNG)
+
+### Simple Merge
+![Simple Merge](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/simple%20merge.PNG)
+
+### Regex Find & Replace
+![Regex Find & Replace](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/regexp%20find%20replace.PNG)
+
 
