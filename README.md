@@ -4,7 +4,6 @@ A free, lightweight desktop toolkit built in Python to make Excel and CSV tasks 
 
 [Download AJ Excel Utilities](https://github.com/kajain99/aj_excel_utilities/raw/main/AJ%20Excel%20Utilities.exe)
 
-
 ## Features
 
 ### Easy VLOOKUP
@@ -47,3 +46,15 @@ Preview results before applying to multiple columns.
 
 All processing happens locally on your computer.  
 No internet connection or data upload is required.
+
+## Screenshots
+
+### Easy VLOOKUP
+![Easy VLOOKUP](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/easy%20vlookup.png)
+
+### Multi-Key VLOOKUP
+![Multi-Key VLOOKUP](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/multikeyvlookup.png)
+
+### Batch Cleanup
+![Batch Cleanup](https://github.com/kajain99/aj_excel_utilities/raw/main/screenshots/batch%20cleanup.png)
+
