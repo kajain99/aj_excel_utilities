@@ -2,6 +2,9 @@
 
 A free, lightweight desktop toolkit built in Python to make Excel and CSV tasks faster and easier — all running locally with no data upload.
 
+[Download AJ Excel Utilities](https://github.com/kajain99/aj_excel_utilities/raw/main/AJ%20Excel%20Utilities.exe)
+
+
 ## Features
 
 ### Easy VLOOKUP
